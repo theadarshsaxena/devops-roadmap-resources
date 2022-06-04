@@ -6,6 +6,9 @@ This repository will provide you all the resources, study materials and importan
 ![Roadmap Image](https://roadmap.sh/roadmaps/devops.png)
 
 ## 1. Git & GitHub
+### Cheatsheet
+  1. [Atlassian cheatsheet](https://github.com/theadarshsaxena/devops-roadmap-resources/blob/master/cheatsheets/git%20cheatsheet%20-%20atlassian.pdf) - For git commands
+
 ### YouTube Videos
   1. [MIT Git](https://www.youtube.com/watch?v=2sjqTHE0zok) - **Best for Git Concepts**
   2. [FreeCodeCamp.org YT video](https://www.youtube.com/watch?v=RGOj5yH7evk)
