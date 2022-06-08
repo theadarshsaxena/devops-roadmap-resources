@@ -33,3 +33,12 @@ Note: You can start with any other programming language as well but my personal 
 Right now, I would suggest you get the basics of Django and Flask, as well as different Python Libraries like numpy, pandas etc. It will be useful in future (you'll thank me later).
 
 After learning the basics, later when required, you'll know where and how to learn advance concepts of Python. There are huge number of libraries that you may require in future, just get an acquaintance with those and don't try to learn all those. You can refer to documentation of those and implement them when required in future (that's how it works).
+
+## 3. Linux (Operating System)
+First get the basics of VM, installation of Linux and basic commands from any short YouTube video. Then, start with the following book. After that, depending upon how far you want to go you can start learning.
+
+### Books
+  1. The Linux Command Line: A Complete Introduction (Must, for basics till mediocre)
+
+### Videos
+  1. WILL BE UPDATED SOON
