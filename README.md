@@ -41,4 +41,4 @@ First get the basics of VM, installation of Linux and basic commands from any sh
   1. The Linux Command Line: A Complete Introduction (Must, for basics till mediocre)
 
 ### Videos
-  1. WILL BE UPDATED SOON
+  1. [IIEC RISE - Complete full series](https://www.youtube.com/watch?v=r6k_w-5R2qw&list=PLAi9X1uG6jZ2b1mUmrUcc_aEoc8tfss8e)
